@@ -241,3 +241,258 @@
 2018-03-15 16:07:38,458 [7136] DEBUG FileServer - Listener (192.168.1.14:2021) was stoppped
 2018-03-15 16:07:38,463 [7136] DEBUG ManagementServer - Listener (192.168.1.14:4502) was stoppped
 2018-03-15 16:07:38,463 [7136] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2018-03-15 16:45:39,194 [7120] DEBUG DefaultBootstrap - The server instance MyServerA has been created!
+2018-03-15 16:45:39,272 [7120] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,273 [7120] DEBUG MyServerA - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,273 [7120] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,273 [7120] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,273 [7120] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,273 [7120] DEBUG MyServerA - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,290 [7120] DEBUG DefaultBootstrap - The server instance MyServerA has been initialized!
+2018-03-15 16:45:39,291 [7120] DEBUG DefaultBootstrap - The server instance MyServerB has been created!
+2018-03-15 16:45:39,293 [7120] DEBUG MyServerB - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,293 [7120] DEBUG MyServerB - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,293 [7120] DEBUG MyServerB - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,293 [7120] DEBUG MyServerB - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,293 [7120] DEBUG MyServerB - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,293 [7120] DEBUG MyServerB - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,295 [7120] DEBUG DefaultBootstrap - The server instance MyServerB has been initialized!
+2018-03-15 16:45:39,295 [7120] DEBUG DefaultBootstrap - The server instance TerminatorProtocolServer has been created!
+2018-03-15 16:45:39,295 [7120] DEBUG TerminatorProtocolServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,295 [7120] DEBUG TerminatorProtocolServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,295 [7120] DEBUG TerminatorProtocolServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,295 [7120] DEBUG TerminatorProtocolServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,295 [7120] DEBUG TerminatorProtocolServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,295 [7120] DEBUG TerminatorProtocolServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,296 [7120] DEBUG DefaultBootstrap - The server instance TerminatorProtocolServer has been initialized!
+2018-03-15 16:45:39,296 [7120] DEBUG DefaultBootstrap - The server instance CountSpliterAppServer has been created!
+2018-03-15 16:45:39,296 [7120] DEBUG CountSpliterAppServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,296 [7120] DEBUG CountSpliterAppServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,296 [7120] DEBUG CountSpliterAppServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,296 [7120] DEBUG CountSpliterAppServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,296 [7120] DEBUG CountSpliterAppServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,296 [7120] DEBUG CountSpliterAppServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,296 [7120] DEBUG DefaultBootstrap - The server instance CountSpliterAppServer has been initialized!
+2018-03-15 16:45:39,297 [7120] DEBUG DefaultBootstrap - The server instance FixedSizeServer has been created!
+2018-03-15 16:45:39,297 [7120] DEBUG FixedSizeServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,297 [7120] DEBUG FixedSizeServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,297 [7120] DEBUG FixedSizeServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,297 [7120] DEBUG FixedSizeServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,297 [7120] DEBUG FixedSizeServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,297 [7120] DEBUG FixedSizeServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,297 [7120] DEBUG DefaultBootstrap - The server instance FixedSizeServer has been initialized!
+2018-03-15 16:45:39,297 [7120] DEBUG DefaultBootstrap - The server instance BeginEndMarkServer has been created!
+2018-03-15 16:45:39,298 [7120] DEBUG BeginEndMarkServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,298 [7120] DEBUG BeginEndMarkServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,298 [7120] DEBUG BeginEndMarkServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,298 [7120] DEBUG BeginEndMarkServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,298 [7120] DEBUG BeginEndMarkServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,298 [7120] DEBUG BeginEndMarkServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,298 [7120] DEBUG DefaultBootstrap - The server instance BeginEndMarkServer has been initialized!
+2018-03-15 16:45:39,299 [7120] DEBUG DefaultBootstrap - The server instance FixedHeaderServer has been created!
+2018-03-15 16:45:39,300 [7120] DEBUG FixedHeaderServer - The command TestBinary(SuperSocketDemo.Commands.TestBinary, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,301 [7120] DEBUG DefaultBootstrap - The server instance FixedHeaderServer has been initialized!
+2018-03-15 16:45:39,301 [7120] DEBUG DefaultBootstrap - The server instance HLProtocolServer has been created!
+2018-03-15 16:45:39,302 [7120] DEBUG HLProtocolServer - The command PutHLData(SuperSocketDemo.Commands.PutHLData, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,303 [7120] DEBUG DefaultBootstrap - The server instance HLProtocolServer has been initialized!
+2018-03-15 16:45:39,304 [7120] DEBUG DefaultBootstrap - The server instance CustomServer has been created!
+2018-03-15 16:45:39,305 [7120] DEBUG CustomServer - The command Custom(SuperSocketDemo.Commands.Custom, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,306 [7120] DEBUG DefaultBootstrap - The server instance CustomServer has been initialized!
+2018-03-15 16:45:39,306 [7120] DEBUG DefaultBootstrap - The server instance FileServer has been created!
+2018-03-15 16:45:39,307 [7120] DEBUG FileServer - The command File(SuperSocketDemo.Commands.File, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:45:39,308 [7120] DEBUG DefaultBootstrap - The server instance FileServer has been initialized!
+2018-03-15 16:45:39,338 [7120] DEBUG DefaultBootstrap - The server instance ManagementServer has been created!
+2018-03-15 16:45:39,360 [7120] DEBUG ManagementServer - SubProtocol ServerManager found the commands: [RESTART, LOGIN, START, STOP]
+2018-03-15 16:45:39,377 [7120] DEBUG DefaultBootstrap - The server instance ManagementServer has been initialized!
+2018-03-15 16:45:41,962 [7120] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2018-03-15 16:45:41,962 [7120] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2018-03-15 16:45:42,011 [7120] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-03-15 16:45:42,074 [7120] DEBUG MyServerB - Listener (192.168.1.14:2013) was started
+2018-03-15 16:45:42,099 [7120] DEBUG TerminatorProtocolServer - Listener (192.168.1.14:2014) was started
+2018-03-15 16:45:42,128 [7120] DEBUG CountSpliterAppServer - Listener (192.168.1.14:2015) was started
+2018-03-15 16:45:42,216 [7120] DEBUG FixedSizeServer - Listener (192.168.1.14:2016) was started
+2018-03-15 16:45:42,236 [7120] DEBUG BeginEndMarkServer - Listener (192.168.1.14:2017) was started
+2018-03-15 16:45:42,245 [7120] DEBUG FixedHeaderServer - Listener (192.168.1.14:2018) was started
+2018-03-15 16:45:42,324 [7120] DEBUG HLProtocolServer - Listener (192.168.1.14:2019) was started
+2018-03-15 16:45:42,340 [7120] DEBUG CustomServer - Listener (192.168.1.14:2020) was started
+2018-03-15 16:45:42,364 [7120] DEBUG FileServer - Listener (192.168.1.14:2021) was started
+2018-03-15 16:45:42,366 [7120] DEBUG ManagementServer - Listener (192.168.1.14:4502) was started
+2018-03-15 16:45:42,389 [7120] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2018-03-15 16:50:09,838 [9420] DEBUG DefaultBootstrap - The server instance MyServerA has been created!
+2018-03-15 16:50:09,920 [9420] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,920 [9420] DEBUG MyServerA - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,920 [9420] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,920 [9420] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,920 [9420] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,920 [9420] DEBUG MyServerA - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,941 [9420] DEBUG DefaultBootstrap - The server instance MyServerA has been initialized!
+2018-03-15 16:50:09,942 [9420] DEBUG DefaultBootstrap - The server instance MyServerB has been created!
+2018-03-15 16:50:09,945 [9420] DEBUG MyServerB - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,945 [9420] DEBUG MyServerB - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,945 [9420] DEBUG MyServerB - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,945 [9420] DEBUG MyServerB - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,945 [9420] DEBUG MyServerB - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,945 [9420] DEBUG MyServerB - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,947 [9420] DEBUG DefaultBootstrap - The server instance MyServerB has been initialized!
+2018-03-15 16:50:09,947 [9420] DEBUG DefaultBootstrap - The server instance TerminatorProtocolServer has been created!
+2018-03-15 16:50:09,948 [9420] DEBUG TerminatorProtocolServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,948 [9420] DEBUG TerminatorProtocolServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,948 [9420] DEBUG TerminatorProtocolServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,948 [9420] DEBUG TerminatorProtocolServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,948 [9420] DEBUG TerminatorProtocolServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,948 [9420] DEBUG TerminatorProtocolServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,948 [9420] DEBUG DefaultBootstrap - The server instance TerminatorProtocolServer has been initialized!
+2018-03-15 16:50:09,949 [9420] DEBUG DefaultBootstrap - The server instance CountSpliterAppServer has been created!
+2018-03-15 16:50:09,949 [9420] DEBUG CountSpliterAppServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,949 [9420] DEBUG CountSpliterAppServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,949 [9420] DEBUG CountSpliterAppServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,949 [9420] DEBUG CountSpliterAppServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,949 [9420] DEBUG CountSpliterAppServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,949 [9420] DEBUG CountSpliterAppServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,950 [9420] DEBUG DefaultBootstrap - The server instance CountSpliterAppServer has been initialized!
+2018-03-15 16:50:09,950 [9420] DEBUG DefaultBootstrap - The server instance FixedSizeServer has been created!
+2018-03-15 16:50:09,951 [9420] DEBUG FixedSizeServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,951 [9420] DEBUG FixedSizeServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,951 [9420] DEBUG FixedSizeServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,951 [9420] DEBUG FixedSizeServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,951 [9420] DEBUG FixedSizeServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,951 [9420] DEBUG FixedSizeServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,951 [9420] DEBUG DefaultBootstrap - The server instance FixedSizeServer has been initialized!
+2018-03-15 16:50:09,951 [9420] DEBUG DefaultBootstrap - The server instance BeginEndMarkServer has been created!
+2018-03-15 16:50:09,952 [9420] DEBUG BeginEndMarkServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,952 [9420] DEBUG BeginEndMarkServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,952 [9420] DEBUG BeginEndMarkServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,952 [9420] DEBUG BeginEndMarkServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,952 [9420] DEBUG BeginEndMarkServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,952 [9420] DEBUG BeginEndMarkServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,952 [9420] DEBUG DefaultBootstrap - The server instance BeginEndMarkServer has been initialized!
+2018-03-15 16:50:09,953 [9420] DEBUG DefaultBootstrap - The server instance FixedHeaderServer has been created!
+2018-03-15 16:50:09,954 [9420] DEBUG FixedHeaderServer - The command TestBinary(SuperSocketDemo.Commands.TestBinary, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,955 [9420] DEBUG DefaultBootstrap - The server instance FixedHeaderServer has been initialized!
+2018-03-15 16:50:09,955 [9420] DEBUG DefaultBootstrap - The server instance HLProtocolServer has been created!
+2018-03-15 16:50:09,956 [9420] DEBUG HLProtocolServer - The command PutHLData(SuperSocketDemo.Commands.PutHLData, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,957 [9420] DEBUG DefaultBootstrap - The server instance HLProtocolServer has been initialized!
+2018-03-15 16:50:09,958 [9420] DEBUG DefaultBootstrap - The server instance CustomServer has been created!
+2018-03-15 16:50:09,959 [9420] DEBUG CustomServer - The command Custom(SuperSocketDemo.Commands.Custom, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,959 [9420] DEBUG DefaultBootstrap - The server instance CustomServer has been initialized!
+2018-03-15 16:50:09,960 [9420] DEBUG DefaultBootstrap - The server instance FileServer has been created!
+2018-03-15 16:50:09,961 [9420] DEBUG FileServer - The command File(SuperSocketDemo.Commands.File, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:50:09,962 [9420] DEBUG DefaultBootstrap - The server instance FileServer has been initialized!
+2018-03-15 16:50:09,992 [9420] DEBUG DefaultBootstrap - The server instance ManagementServer has been created!
+2018-03-15 16:50:10,017 [9420] DEBUG ManagementServer - SubProtocol ServerManager found the commands: [RESTART, LOGIN, START, STOP]
+2018-03-15 16:50:10,034 [9420] DEBUG DefaultBootstrap - The server instance ManagementServer has been initialized!
+2018-03-15 16:50:12,576 [9420] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2018-03-15 16:50:12,576 [9420] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2018-03-15 16:50:12,626 [9420] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-03-15 16:50:12,693 [9420] DEBUG MyServerB - Listener (192.168.1.14:2013) was started
+2018-03-15 16:50:12,714 [9420] DEBUG TerminatorProtocolServer - Listener (192.168.1.14:2014) was started
+2018-03-15 16:50:12,743 [9420] DEBUG CountSpliterAppServer - Listener (192.168.1.14:2015) was started
+2018-03-15 16:50:12,837 [9420] DEBUG FixedSizeServer - Listener (192.168.1.14:2016) was started
+2018-03-15 16:50:12,857 [9420] DEBUG BeginEndMarkServer - Listener (192.168.1.14:2017) was started
+2018-03-15 16:50:12,868 [9420] DEBUG FixedHeaderServer - Listener (192.168.1.14:2018) was started
+2018-03-15 16:50:12,946 [9420] DEBUG HLProtocolServer - Listener (192.168.1.14:2019) was started
+2018-03-15 16:50:12,962 [9420] DEBUG CustomServer - Listener (192.168.1.14:2020) was started
+2018-03-15 16:50:12,988 [9420] DEBUG FileServer - Listener (192.168.1.14:2021) was started
+2018-03-15 16:50:12,993 [9420] DEBUG ManagementServer - Listener (192.168.1.14:4502) was started
+2018-03-15 16:50:13,017 [9420] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2018-03-15 16:51:17,987 [9420] DEBUG MyServerA - Listener (192.168.1.14:2012) was stoppped
+2018-03-15 16:51:17,993 [9420] DEBUG MyServerB - Listener (192.168.1.14:2013) was stoppped
+2018-03-15 16:51:17,999 [9420] DEBUG TerminatorProtocolServer - Listener (192.168.1.14:2014) was stoppped
+2018-03-15 16:51:18,005 [9420] DEBUG CountSpliterAppServer - Listener (192.168.1.14:2015) was stoppped
+2018-03-15 16:51:18,010 [9420] DEBUG FixedSizeServer - Listener (192.168.1.14:2016) was stoppped
+2018-03-15 16:51:18,016 [9420] DEBUG BeginEndMarkServer - Listener (192.168.1.14:2017) was stoppped
+2018-03-15 16:51:18,022 [9420] DEBUG FixedHeaderServer - Listener (192.168.1.14:2018) was stoppped
+2018-03-15 16:51:18,029 [9420] DEBUG HLProtocolServer - Listener (192.168.1.14:2019) was stoppped
+2018-03-15 16:51:18,035 [9420] DEBUG CustomServer - Listener (192.168.1.14:2020) was stoppped
+2018-03-15 16:51:18,040 [9420] DEBUG FileServer - Listener (192.168.1.14:2021) was stoppped
+2018-03-15 16:51:18,045 [9420] DEBUG ManagementServer - Listener (192.168.1.14:4502) was stoppped
+2018-03-15 16:51:18,046 [9420] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2018-03-15 16:51:23,645 [9348] DEBUG DefaultBootstrap - The server instance MyServerA has been created!
+2018-03-15 16:51:23,721 [9348] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,721 [9348] DEBUG MyServerA - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,721 [9348] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,721 [9348] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,721 [9348] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,721 [9348] DEBUG MyServerA - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,738 [9348] DEBUG DefaultBootstrap - The server instance MyServerA has been initialized!
+2018-03-15 16:51:23,740 [9348] DEBUG DefaultBootstrap - The server instance MyServerB has been created!
+2018-03-15 16:51:23,742 [9348] DEBUG MyServerB - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,742 [9348] DEBUG MyServerB - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,742 [9348] DEBUG MyServerB - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,742 [9348] DEBUG MyServerB - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,742 [9348] DEBUG MyServerB - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,742 [9348] DEBUG MyServerB - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,744 [9348] DEBUG DefaultBootstrap - The server instance MyServerB has been initialized!
+2018-03-15 16:51:23,744 [9348] DEBUG DefaultBootstrap - The server instance TerminatorProtocolServer has been created!
+2018-03-15 16:51:23,745 [9348] DEBUG TerminatorProtocolServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,745 [9348] DEBUG TerminatorProtocolServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,745 [9348] DEBUG TerminatorProtocolServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,745 [9348] DEBUG TerminatorProtocolServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,745 [9348] DEBUG TerminatorProtocolServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,745 [9348] DEBUG TerminatorProtocolServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,745 [9348] DEBUG DefaultBootstrap - The server instance TerminatorProtocolServer has been initialized!
+2018-03-15 16:51:23,746 [9348] DEBUG DefaultBootstrap - The server instance CountSpliterAppServer has been created!
+2018-03-15 16:51:23,746 [9348] DEBUG CountSpliterAppServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,746 [9348] DEBUG CountSpliterAppServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,746 [9348] DEBUG CountSpliterAppServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,746 [9348] DEBUG CountSpliterAppServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,746 [9348] DEBUG CountSpliterAppServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,746 [9348] DEBUG CountSpliterAppServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,746 [9348] DEBUG DefaultBootstrap - The server instance CountSpliterAppServer has been initialized!
+2018-03-15 16:51:23,747 [9348] DEBUG DefaultBootstrap - The server instance FixedSizeServer has been created!
+2018-03-15 16:51:23,747 [9348] DEBUG FixedSizeServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,747 [9348] DEBUG FixedSizeServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,747 [9348] DEBUG FixedSizeServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,747 [9348] DEBUG FixedSizeServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,747 [9348] DEBUG FixedSizeServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,747 [9348] DEBUG FixedSizeServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,748 [9348] DEBUG DefaultBootstrap - The server instance FixedSizeServer has been initialized!
+2018-03-15 16:51:23,748 [9348] DEBUG DefaultBootstrap - The server instance BeginEndMarkServer has been created!
+2018-03-15 16:51:23,748 [9348] DEBUG BeginEndMarkServer - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,748 [9348] DEBUG BeginEndMarkServer - The command Dispatch(SuperSocketDemo.Commands.Dispatch, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,748 [9348] DEBUG BeginEndMarkServer - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,748 [9348] DEBUG BeginEndMarkServer - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,748 [9348] DEBUG BeginEndMarkServer - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,748 [9348] DEBUG BeginEndMarkServer - The command Query(SuperSocketDemo.Commands.Query, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,749 [9348] DEBUG DefaultBootstrap - The server instance BeginEndMarkServer has been initialized!
+2018-03-15 16:51:23,750 [9348] DEBUG DefaultBootstrap - The server instance FixedHeaderServer has been created!
+2018-03-15 16:51:23,752 [9348] DEBUG FixedHeaderServer - The command TestBinary(SuperSocketDemo.Commands.TestBinary, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,753 [9348] DEBUG DefaultBootstrap - The server instance FixedHeaderServer has been initialized!
+2018-03-15 16:51:23,753 [9348] DEBUG DefaultBootstrap - The server instance HLProtocolServer has been created!
+2018-03-15 16:51:23,754 [9348] DEBUG HLProtocolServer - The command PutHLData(SuperSocketDemo.Commands.PutHLData, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,755 [9348] DEBUG DefaultBootstrap - The server instance HLProtocolServer has been initialized!
+2018-03-15 16:51:23,756 [9348] DEBUG DefaultBootstrap - The server instance CustomServer has been created!
+2018-03-15 16:51:23,757 [9348] DEBUG CustomServer - The command Custom(SuperSocketDemo.Commands.Custom, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,758 [9348] DEBUG DefaultBootstrap - The server instance CustomServer has been initialized!
+2018-03-15 16:51:23,759 [9348] DEBUG DefaultBootstrap - The server instance FileServer has been created!
+2018-03-15 16:51:23,760 [9348] DEBUG FileServer - The command File(SuperSocketDemo.Commands.File, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-03-15 16:51:23,761 [9348] DEBUG DefaultBootstrap - The server instance FileServer has been initialized!
+2018-03-15 16:51:23,787 [9348] DEBUG DefaultBootstrap - The server instance ManagementServer has been created!
+2018-03-15 16:51:23,808 [9348] DEBUG ManagementServer - SubProtocol ServerManager found the commands: [RESTART, LOGIN, START, STOP]
+2018-03-15 16:51:23,823 [9348] DEBUG DefaultBootstrap - The server instance ManagementServer has been initialized!
+2018-03-15 16:51:26,209 [9348] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2018-03-15 16:51:26,209 [9348] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2018-03-15 16:51:26,256 [9348] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-03-15 16:51:26,325 [9348] DEBUG MyServerB - Listener (192.168.1.14:2013) was started
+2018-03-15 16:51:26,345 [9348] DEBUG TerminatorProtocolServer - Listener (192.168.1.14:2014) was started
+2018-03-15 16:51:26,374 [9348] DEBUG CountSpliterAppServer - Listener (192.168.1.14:2015) was started
+2018-03-15 16:51:26,462 [9348] DEBUG FixedSizeServer - Listener (192.168.1.14:2016) was started
+2018-03-15 16:51:26,483 [9348] DEBUG BeginEndMarkServer - Listener (192.168.1.14:2017) was started
+2018-03-15 16:51:26,492 [9348] DEBUG FixedHeaderServer - Listener (192.168.1.14:2018) was started
+2018-03-15 16:51:26,563 [9348] DEBUG HLProtocolServer - Listener (192.168.1.14:2019) was started
+2018-03-15 16:51:26,581 [9348] DEBUG CustomServer - Listener (192.168.1.14:2020) was started
+2018-03-15 16:51:26,606 [9348] DEBUG FileServer - Listener (192.168.1.14:2021) was started
+2018-03-15 16:51:26,610 [9348] DEBUG ManagementServer - Listener (192.168.1.14:4502) was started
+2018-03-15 16:51:26,636 [9348] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2018-03-15 16:52:54,582 [9348] DEBUG MyServerA - Listener (192.168.1.14:2012) was stoppped
+2018-03-15 16:52:54,588 [9348] DEBUG MyServerB - Listener (192.168.1.14:2013) was stoppped
+2018-03-15 16:52:54,600 [9348] DEBUG TerminatorProtocolServer - Listener (192.168.1.14:2014) was stoppped
+2018-03-15 16:52:54,607 [9348] DEBUG CountSpliterAppServer - Listener (192.168.1.14:2015) was stoppped
+2018-03-15 16:52:54,612 [9348] DEBUG FixedSizeServer - Listener (192.168.1.14:2016) was stoppped
+2018-03-15 16:52:54,618 [9348] DEBUG BeginEndMarkServer - Listener (192.168.1.14:2017) was stoppped
+2018-03-15 16:52:54,625 [9348] DEBUG FixedHeaderServer - Listener (192.168.1.14:2018) was stoppped
+2018-03-15 16:52:54,631 [9348] DEBUG HLProtocolServer - Listener (192.168.1.14:2019) was stoppped
+2018-03-15 16:52:54,637 [9348] DEBUG CustomServer - Listener (192.168.1.14:2020) was stoppped
+2018-03-15 16:52:54,642 [9348] DEBUG FileServer - Listener (192.168.1.14:2021) was stoppped
+2018-03-15 16:52:54,647 [9348] DEBUG ManagementServer - Listener (192.168.1.14:4502) was stoppped
+2018-03-15 16:52:54,648 [9348] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
