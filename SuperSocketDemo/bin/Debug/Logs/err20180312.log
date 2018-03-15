@@ -1,0 +1,5 @@
+﻿2018-03-12 17:11:18,057 [8096] ERROR DefaultBootstrap - System.Exception: Failed to find a service for server FileServer!
+   在 SuperSocket.SocketEngine.WorkItemFactoryInfoLoader.LoadResult(Func`2 serverConfigResolver)
+   在 SuperSocket.SocketEngine.DefaultBootstrap.Initialize(Func`2 serverConfigResolver, ILogFactory logFactory)
+2018-03-12 17:13:12,175 [6364] ERROR FileServer - receiveFilterFactory is required!
+2018-03-12 17:13:12,175 [6364] ERROR DefaultBootstrap - Failed to setup server instance!

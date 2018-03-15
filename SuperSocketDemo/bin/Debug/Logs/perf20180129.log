@@ -1,0 +1,28 @@
+﻿2018-01-29 15:14:35,732 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 63,119,360.00, Total Thread Count: 28
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+TelnetServerA ----------------------------------
+Started Time: 2018/1/29 15:14:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+
+2018-01-29 15:17:24,548 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 48,099,328.00, Total Thread Count: 23
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+TelnetServerA ----------------------------------
+Started Time: 2018/1/29 15:17:24
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+

@@ -1,0 +1,122 @@
+﻿正在安装程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+无法创建 SuperSocket.SocketService.SocketServiceInstaller 安装程序类型的实例。
+System.Reflection.TargetInvocationException: 调用的目标发生了异常。
+引发了内部异常 System.ArgumentException，错误消息如下: 服务名  包含无效字符、为空或者过长(最大长度 = 80)。。
+正在回滚程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+无法创建 SuperSocket.SocketService.SocketServiceInstaller 安装程序类型的实例。
+System.Reflection.TargetInvocationException: 调用的目标发生了异常。
+引发了内部异常 System.ArgumentException，错误消息如下: 服务名  包含无效字符、为空或者过长(最大长度 = 80)。。
+正在卸载程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+无法创建 SuperSocket.SocketService.SocketServiceInstaller 安装程序类型的实例。
+System.Reflection.TargetInvocationException: 调用的目标发生了异常。
+引发了内部异常 System.ArgumentException，错误消息如下: 服务名  包含无效字符、为空或者过长(最大长度 = 80)。。
+正在安装程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在安装服务 SupperSocketService...
+已成功安装服务 SupperSocketService。
+正在日志 Application 中创建 EventLog 源 SupperSocketService...
+正在提交程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在卸载程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在移除 EventLog 源 SupperSocketService。
+正在从系统中移除服务 SupperSocketService...
+已成功地从系统中移除服务 SupperSocketService。
+正在安装程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在安装服务 SupperSocketService...
+已成功安装服务 SupperSocketService。
+正在日志 Application 中创建 EventLog 源 SupperSocketService...
+正在提交程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在安装程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在安装服务 SupperSocketService...
+正在日志 Application 中创建 EventLog 源 SupperSocketService...
+正在回滚程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在将事件日志还原到源 SupperSocketService 的前一状态。
+正在卸载程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在移除 EventLog 源 SupperSocketService。
+正在从系统中移除服务 SupperSocketService...
+已成功地从系统中移除服务 SupperSocketService。
+正在安装程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在安装服务 SupperSocketService...
+已成功安装服务 SupperSocketService。
+正在日志 Application 中创建 EventLog 源 SupperSocketService...
+正在提交程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在卸载程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在移除 EventLog 源 SupperSocketService。
+正在从系统中移除服务 SupperSocketService...
+已成功地从系统中移除服务 SupperSocketService。
+尝试停止服务 SupperSocketService。
+正在安装程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在安装服务 SupperSocketService...
+已成功安装服务 SupperSocketService。
+正在日志 Application 中创建 EventLog 源 SupperSocketService...
+正在提交程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在卸载程序集“C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.exe
+   logfile = C:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\bin\Debug\SuperSocket.SocketService.InstallLog
+正在移除 EventLog 源 SupperSocketService。
+正在从系统中移除服务 SupperSocketService...
+已成功地从系统中移除服务 SupperSocketService。

@@ -1,0 +1,18 @@
+﻿2018-02-03 13:04:45,500 [5016] ERROR FixedSizeServer - Session: 4189b1db-8167-4526-a50f-0e7e3c4b6017/192.168.1.105:10276
+Protocol error
+Caller: ProcessReceive, file path: d:\WorkShop\SuperSocket\v1.6\SocketEngine\AsyncSocketSession.cs, line number: 244
+System.NotImplementedException: 未实现该方法或操作。
+   在 SuperSocketDemo.Filters.MyReceiveFilter.ProcessMatchedRequest(Byte[] buffer, Int32 offset, Int32 length, Boolean toBeCopied) 位置 c:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\Filters\MyReceiveFilter.cs:行号 21
+   在 SuperSocket.Facility.Protocol.FixedSizeReceiveFilter`1.Filter(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied, Int32& rest)
+   在 SuperSocket.SocketBase.AppSession`2.FilterRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied, Int32& rest, Int32& offsetDelta)
+   在 SuperSocket.SocketBase.AppSession`2.SuperSocket.SocketBase.IAppSession.ProcessRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied)
+   在 SuperSocket.SocketEngine.AsyncSocketSession.ProcessReceive(SocketAsyncEventArgs e)
+2018-02-03 13:05:19,320 [5016] ERROR FixedSizeServer - Session: 65580601-3bc3-4078-8f23-0ba0f0a035a6/192.168.1.105:10278
+Protocol error
+Caller: ProcessReceive, file path: d:\WorkShop\SuperSocket\v1.6\SocketEngine\AsyncSocketSession.cs, line number: 244
+System.NotImplementedException: 未实现该方法或操作。
+   在 SuperSocketDemo.Filters.MyReceiveFilter.ProcessMatchedRequest(Byte[] buffer, Int32 offset, Int32 length, Boolean toBeCopied) 位置 c:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\Filters\MyReceiveFilter.cs:行号 21
+   在 SuperSocket.Facility.Protocol.FixedSizeReceiveFilter`1.Filter(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied, Int32& rest)
+   在 SuperSocket.SocketBase.AppSession`2.FilterRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied, Int32& rest, Int32& offsetDelta)
+   在 SuperSocket.SocketBase.AppSession`2.SuperSocket.SocketBase.IAppSession.ProcessRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied)
+   在 SuperSocket.SocketEngine.AsyncSocketSession.ProcessReceive(SocketAsyncEventArgs e)

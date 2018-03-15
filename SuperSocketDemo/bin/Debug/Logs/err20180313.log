@@ -1,0 +1,12 @@
+﻿2018-03-13 14:32:40,305 [6832] ERROR DefaultBootstrap - System.InvalidOperationException: SuperSocketDemo.Commands.ADD 不是 GenericTypeDefinition。只能对 Type.IsGenericTypeDefinition 为 True 的类型调用 MakeGenericType。
+   在 System.RuntimeType.MakeGenericType(Type[] instantiation)
+   在 SuperSocket.SocketBase.AppServerBase`2.<SuperSocket.SocketBase.IWorkItem.Setup>b__f(Type t)
+   在 SuperSocket.SocketBase.Provider.ExportFactory.CreateExport[T](Func`2 creator)
+   在 SuperSocket.SocketBase.AppServerBase`2.TryGetProviderInstances[TProvider](ProviderFactoryInfo[] factories, ProviderKey key, Func`2 creator, Func`3 initializer, IEnumerable`1& providers)
+   在 SuperSocket.SocketBase.AppServerBase`2.GetProviderInstances[TProvider](ProviderFactoryInfo[] factories, ProviderKey key, Func`2 creator)
+   在 SuperSocket.SocketBase.AppServerBase`2.SuperSocket.SocketBase.IWorkItem.Setup(IBootstrap bootstrap, IServerConfig config, ProviderFactoryInfo[] factories)
+   在 SuperSocket.SocketEngine.DefaultBootstrap.SetupWorkItemInstance(IWorkItem workItem, WorkItemFactoryInfo factoryInfo)
+   在 SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+2018-03-13 14:32:40,309 [6832] ERROR DefaultBootstrap - Failed to setup server instance!
+2018-03-13 16:34:27,636 [10076] ERROR MyServerB - Configuration option policyFile is required!
+2018-03-13 16:34:27,636 [10076] ERROR DefaultBootstrap - Failed to setup server instance!

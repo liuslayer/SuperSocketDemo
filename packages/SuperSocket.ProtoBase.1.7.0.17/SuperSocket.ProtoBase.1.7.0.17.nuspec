@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SuperSocket.ProtoBase</id>
+    <version>1.7.0.17</version>
+    <title>SuperSocket.ProtoBase, a network protocol resolving library in SuperSocket</title>
+    <authors>Kerry Jiang</authors>
+    <owners>Kerry Jiang</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://www.supersocket.net/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>It is a network protocol resolving library which can be used in both server and client</description>
+    <releaseNotes>1) added the assemblies of .net 4.0 and .net 4.5;
+2) signed the assembly of .net standard;
+3) added XML document files into the nuget package;</releaseNotes>
+    <tags>SuperSocket Network Protocol Protocol Resolving</tags>
+    <dependencies>
+      <group targetFramework="Unsupported0.0">
+        <dependency id="System.Linq" version="4.3.0" />
+        <dependency id="System.Runtime.Extensions" version="4.3.0" />
+        <dependency id="System.Text.Encoding" version="4.3.0" />
+        <dependency id="System.IO" version="4.3.0" />
+        <dependency id="System.Threading" version="4.3.0" />
+      </group>
+    </dependencies>
+    <references>
+      <reference file="SuperSocket.ProtoBase.dll" />
+    </references>
+  </metadata>
+</package>

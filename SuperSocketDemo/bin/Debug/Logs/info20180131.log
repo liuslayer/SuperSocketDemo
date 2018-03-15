@@ -1,0 +1,25 @@
+﻿2018-01-31 21:15:13,841 [9508] INFO  AppServer-14854669 - The server instance AppServer-14854669 has been started!
+2018-01-31 21:16:36,301 [7428] INFO  AppServer-14854669 - Session: 22af7b01-b11f-403c-88d1-cfd68af98f44/192.168.1.105:2746
+A new session connected!
+2018-01-31 21:20:21,267 [9808] INFO  AppServer-62476613 - The server instance AppServer-62476613 has been started!
+2018-01-31 21:21:52,994 [4940] INFO  MyServer-45653674 - The server instance MyServer-45653674 has been started!
+2018-01-31 21:21:59,712 [6692] INFO  MyServer-45653674 - Session: 3a4072c2-55c2-4bb3-b22c-3a819ff0a313/192.168.1.105:2763
+A new session connected!
+2018-01-31 21:25:51,607 [1844] INFO  MyServer-22008501 - The server instance MyServer-22008501 has been started!
+2018-01-31 21:25:57,779 [9788] INFO  MyServer-22008501 - Session: c551fa8a-31c5-4712-94a0-7cf007164d9a/192.168.1.105:2794
+A new session connected!
+2018-01-31 21:26:25,540 [6500] INFO  MyServer-62476613 - The server instance MyServer-62476613 has been started!
+2018-01-31 21:26:29,677 [8996] INFO  MyServer-62476613 - Session: 432404b0-e1ba-4860-99e2-9949f5e3598a/192.168.1.105:2795
+A new session connected!
+2018-01-31 21:28:15,262 [2848] INFO  MyServer-37121646 - The server instance MyServer-37121646 has been started!
+2018-01-31 21:28:18,554 [1592] INFO  MyServer-37121646 - Session: 84c044b2-8166-40ab-903e-e13a69304df8/192.168.1.105:2803
+A new session connected!
+2018-01-31 21:29:32,616 [1840] INFO  MyServer-37121646 - The server instance MyServer-37121646 has been started!
+2018-01-31 21:29:34,931 [6908] INFO  MyServer-37121646 - Session: 5ce9ba5e-1fae-44cd-a9fa-21295a21b492/192.168.1.105:2810
+A new session connected!
+2018-01-31 21:31:17,819 [8428] INFO  MyServer-45653674 - The server instance MyServer-45653674 has been started!
+2018-01-31 21:31:20,661 [1300] INFO  MyServer-45653674 - Session: c63f10e4-132b-4c25-b4b8-f1dc14c7521e/192.168.1.105:2815
+A new session connected!
+2018-01-31 21:33:18,054 [1436] INFO  MyServer-45653674 - The server instance MyServer-45653674 has been started!
+2018-01-31 21:33:29,102 [7360] INFO  MyServer-45653674 - Session: 8c9d419b-2594-4bef-bc5b-c1c19f1c3a37/192.168.1.105:2822
+A new session connected!

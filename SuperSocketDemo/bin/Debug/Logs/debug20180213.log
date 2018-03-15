@@ -1,0 +1,6 @@
+﻿2018-02-13 10:49:17,613 [5424] DEBUG MyServerA - The command Custom(SuperSocketDemo.Commands.Custom, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-13 10:49:17,712 [5424] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-13 10:49:58,151 [9112] DEBUG MyServerA - The command Custom(SuperSocketDemo.Commands.Custom, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-13 10:49:58,191 [9112] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-13 10:58:09,830 [7524] DEBUG MyServerA - The command Custom(SuperSocketDemo.Commands.Custom, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-13 10:58:09,869 [7524] DEBUG MyServerA - Listener (192.168.1.14:2012) was started

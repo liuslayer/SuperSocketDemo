@@ -1,0 +1,16 @@
+﻿2018-01-29 15:14:33,134 [10148] DEBUG DefaultBootstrap - The server instance TelnetServerA has been created!
+2018-01-29 15:14:33,187 [10148] DEBUG DefaultBootstrap - The server instance TelnetServerA has been initialized!
+2018-01-29 15:14:35,595 [10148] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2018-01-29 15:14:35,595 [10148] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2018-01-29 15:14:35,632 [10148] DEBUG TelnetServerA - Listener (0.0.0.0:9000) was started
+2018-01-29 15:14:35,637 [10148] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2018-01-29 15:14:48,040 [10148] DEBUG TelnetServerA - Listener (0.0.0.0:9000) was stoppped
+2018-01-29 15:14:48,048 [10148] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2018-01-29 15:17:22,082 [4284] DEBUG DefaultBootstrap - The server instance TelnetServerA has been created!
+2018-01-29 15:17:22,136 [4284] DEBUG DefaultBootstrap - The server instance TelnetServerA has been initialized!
+2018-01-29 15:17:24,418 [4284] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2018-01-29 15:17:24,418 [4284] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2018-01-29 15:17:24,452 [4284] DEBUG TelnetServerA - Listener (0.0.0.0:9000) was started
+2018-01-29 15:17:24,457 [4284] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2018-01-29 15:17:25,656 [4284] DEBUG TelnetServerA - Listener (0.0.0.0:9000) was stoppped
+2018-01-29 15:17:25,656 [4284] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!

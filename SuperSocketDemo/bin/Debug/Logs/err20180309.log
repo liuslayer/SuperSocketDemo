@@ -1,0 +1,12 @@
+﻿2018-03-09 11:26:22,129 [6608] ERROR DefaultBootstrap - The process crashed for an unhandled exception!
+System.InvalidCastException: 无法将类型为“SuperSocketDemo.AppServers.MyServerA”的对象强制转换为类型“SuperSocketDemo.AppServers.CustomServer”。
+   在 System.Linq.Enumerable.<CastIterator>d__94`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 SuperSocketDemo.Program.Main(String[] args) 位置 c:\Users\Administrator\Desktop\SuperSocketDemo\SuperSocketDemo\Program.cs:行号 133
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()

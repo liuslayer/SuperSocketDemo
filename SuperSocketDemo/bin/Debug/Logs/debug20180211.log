@@ -1,0 +1,30 @@
+﻿2018-02-11 16:09:55,800 [6872] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:09:55,811 [6872] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:09:55,812 [6872] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:09:55,812 [6872] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:09:55,844 [6872] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-11 16:11:26,354 [8188] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:11:26,367 [8188] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:11:26,367 [8188] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:11:26,367 [8188] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:11:26,392 [8188] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-11 16:12:25,062 [5852] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:12:25,072 [5852] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:12:25,072 [5852] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:12:25,072 [5852] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:12:25,100 [5852] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-11 16:13:00,042 [7060] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:13:00,052 [7060] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:13:00,052 [7060] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:13:00,052 [7060] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:13:00,079 [7060] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-11 16:19:14,903 [8184] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:19:14,916 [8184] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:19:14,916 [8184] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:19:14,916 [8184] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-11 16:19:14,948 [8184] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-11 16:20:09,748 [8184] DEBUG MyServerA - Listener (192.168.1.14:2012) was stoppped
+2018-02-11 16:51:33,370 [6840] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-11 16:52:04,297 [7996] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-11 16:54:30,704 [6852] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-11 17:02:54,481 [6276] DEBUG MyServerA - Listener (192.168.1.14:2012) was started

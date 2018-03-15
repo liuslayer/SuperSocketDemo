@@ -1,0 +1,13 @@
+﻿2018-03-06 16:55:23,122 [8464] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-06 16:55:27,365 [5724] INFO  MyServerA - Session: ff070c9a-b313-41e8-b33b-aa05c52652a5/192.168.1.14:2496
+A new session connected!
+2018-03-06 17:04:27,040 [8224] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-06 17:04:36,022 [8788] INFO  MyServerA - Session: 73644438-2eb5-4e25-8b87-e50d2ceae6e0/192.168.1.14:2661
+A new session connected!
+2018-03-06 17:10:27,111 [2276] INFO  MyServerA - Session: 73644438-2eb5-4e25-8b87-e50d2ceae6e0/192.168.1.14:2661
+The session will be closed for 351.0250775 timeout, the session start time: 2018/3/6 17:04:36, last active time: 2018/3/6 17:04:36!
+2018-03-06 17:10:27,116 [2276] INFO  MyServerA - Session: 73644438-2eb5-4e25-8b87-e50d2ceae6e0/192.168.1.14:2661
+This session was closed for TimeOut!
+2018-03-06 17:26:24,768 [8676] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-06 17:26:41,426 [6336] INFO  MyServerA - Session: bd4d5ccd-c7df-4a7a-ad36-d3ee1146ef07/192.168.1.14:2782
+A new session connected!

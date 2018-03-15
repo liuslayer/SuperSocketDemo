@@ -1,0 +1,29 @@
+﻿2018-02-08 08:40:25,187 [3012] INFO  MyServerA - The server instance MyServerA has been started!
+2018-02-08 08:40:25,219 [3012] INFO  MyServerB - The server instance MyServerB has been started!
+2018-02-08 08:40:25,265 [3012] INFO  TerminatorProtocolServer - The server instance TerminatorProtocolServer has been started!
+2018-02-08 08:40:25,390 [3012] INFO  CountSpliterAppServer - The server instance CountSpliterAppServer has been started!
+2018-02-08 08:40:25,453 [3012] INFO  FixedSizeServer - The server instance FixedSizeServer has been started!
+2018-02-08 08:40:25,515 [3012] INFO  BeginEndMarkServer - The server instance BeginEndMarkServer has been started!
+2018-02-08 08:40:25,593 [3012] INFO  FixedHeaderServer - The server instance FixedHeaderServer has been started!
+2018-02-08 08:40:25,655 [3012] INFO  HLProtocolServer - The server instance HLProtocolServer has been started!
+2018-02-08 16:35:23,589 [7892] INFO  MyServerA - The server instance MyServerA has been stopped!
+2018-02-08 16:35:23,594 [7892] INFO  MyServerB - The server instance MyServerB has been stopped!
+2018-02-08 16:35:23,599 [7892] INFO  TerminatorProtocolServer - The server instance TerminatorProtocolServer has been stopped!
+2018-02-08 16:35:23,637 [7892] INFO  CountSpliterAppServer - The server instance CountSpliterAppServer has been stopped!
+2018-02-08 16:35:23,642 [7892] INFO  FixedSizeServer - The server instance FixedSizeServer has been stopped!
+2018-02-08 16:35:23,647 [7892] INFO  BeginEndMarkServer - The server instance BeginEndMarkServer has been stopped!
+2018-02-08 16:35:23,652 [7892] INFO  FixedHeaderServer - The server instance FixedHeaderServer has been stopped!
+2018-02-08 16:35:23,657 [7892] INFO  HLProtocolServer - The server instance HLProtocolServer has been stopped!
+2018-02-08 16:36:08,965 [5868] INFO  MyServerA - The server instance MyServerA has been started!
+2018-02-08 16:40:21,743 [8036] INFO  MyServerA - The server instance MyServerA has been started!
+2018-02-08 16:40:57,137 [5996] INFO  MyServerA - Session: d2853ab2-3c4e-4f6b-9824-630f6d912d7c/192.168.1.14:27410
+A new session connected!
+2018-02-08 16:42:01,894 [6844] INFO  MyServerA - Session: d2853ab2-3c4e-4f6b-9824-630f6d912d7c/192.168.1.14:27410
+The session will be closed for 64.6336968 timeout, the session start time: 2018/2/8 16:40:57, last active time: 2018/2/8 16:40:57!
+2018-02-08 16:42:01,916 [7120] INFO  MyServerA - Session: d2853ab2-3c4e-4f6b-9824-630f6d912d7c/192.168.1.14:27410
+This session was closed for TimeOut!
+2018-02-08 16:43:54,223 [7684] INFO  MyServerA - The server instance MyServerA has been started!
+2018-02-08 16:44:01,903 [6064] INFO  MyServerA - Session: 2602c5e6-b2da-4673-913d-e74f49b70879/192.168.1.14:27420
+A new session connected!
+2018-02-08 16:47:14,994 [7756] INFO  MyServerA - Session: 2602c5e6-b2da-4673-913d-e74f49b70879/192.168.1.14:27420
+This session was closed for ClientClosing!

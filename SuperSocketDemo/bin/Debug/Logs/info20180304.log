@@ -1,0 +1,9 @@
+﻿2018-03-04 17:54:58,908 [8984] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-04 17:59:08,223 [6736] INFO  MyServerA - Session: 9837d153-a3fb-4a81-8e79-6236d9e453be/192.168.1.14:4446
+A new session connected!
+2018-03-04 18:00:48,269 [6092] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-04 18:01:00,009 [6200] INFO  MyServerA - Session: 2128b035-c211-4058-ab3b-0e2645b2dabe/192.168.1.14:4550
+A new session connected!
+2018-03-04 18:08:55,723 [10088] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-04 18:09:00,805 [9244] INFO  MyServerA - Session: 1b040c7b-c823-467c-a020-b1012768aba9/192.168.1.14:5205
+A new session connected!

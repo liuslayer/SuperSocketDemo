@@ -1,0 +1,52 @@
+﻿2018-03-15 09:19:57,828 [7224] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-15 09:19:57,846 [7224] INFO  MyServerB - The server instance MyServerB has been started!
+2018-03-15 09:19:57,876 [7224] INFO  TerminatorProtocolServer - The server instance TerminatorProtocolServer has been started!
+2018-03-15 09:19:57,954 [7224] INFO  CountSpliterAppServer - The server instance CountSpliterAppServer has been started!
+2018-03-15 09:19:57,989 [7224] INFO  FixedSizeServer - The server instance FixedSizeServer has been started!
+2018-03-15 09:19:58,017 [7224] INFO  BeginEndMarkServer - The server instance BeginEndMarkServer has been started!
+2018-03-15 09:19:58,097 [7224] INFO  FixedHeaderServer - The server instance FixedHeaderServer has been started!
+2018-03-15 09:19:58,127 [7224] INFO  HLProtocolServer - The server instance HLProtocolServer has been started!
+2018-03-15 09:19:58,155 [7224] INFO  CustomServer - The server instance CustomServer has been started!
+2018-03-15 09:19:58,180 [7224] INFO  FileServer - The server instance FileServer has been started!
+2018-03-15 09:19:58,182 [7224] INFO  ManagementServer - The server instance ManagementServer has been started!
+2018-03-15 09:20:05,103 [7184] INFO  ManagementServer - Session: 7f857d40-2363-40cc-b537-acf7c8e4a8af/192.168.1.14:1795
+A new session connected!
+2018-03-15 09:20:10,906 [5776] INFO  ManagementServer - Session: 7f857d40-2363-40cc-b537-acf7c8e4a8af/192.168.1.14:1795
+This session was closed for ClientClosing!
+2018-03-15 09:20:49,828 [6932] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-15 09:20:49,890 [6932] INFO  MyServerB - The server instance MyServerB has been started!
+2018-03-15 09:20:49,906 [6932] INFO  TerminatorProtocolServer - The server instance TerminatorProtocolServer has been started!
+2018-03-15 09:20:49,937 [6932] INFO  CountSpliterAppServer - The server instance CountSpliterAppServer has been started!
+2018-03-15 09:20:50,077 [6932] INFO  FixedSizeServer - The server instance FixedSizeServer has been started!
+2018-03-15 09:20:50,093 [6932] INFO  BeginEndMarkServer - The server instance BeginEndMarkServer has been started!
+2018-03-15 09:20:50,093 [6932] INFO  FixedHeaderServer - The server instance FixedHeaderServer has been started!
+2018-03-15 09:20:50,186 [6932] INFO  HLProtocolServer - The server instance HLProtocolServer has been started!
+2018-03-15 09:20:50,249 [6932] INFO  CustomServer - The server instance CustomServer has been started!
+2018-03-15 09:20:50,311 [6932] INFO  FileServer - The server instance FileServer has been started!
+2018-03-15 09:20:50,311 [6932] INFO  ManagementServer - The server instance ManagementServer has been started!
+2018-03-15 09:20:56,629 [6292] INFO  ManagementServer - Session: 322f18a0-3e9b-4e39-a43f-aaea47adc19d/192.168.1.14:1806
+A new session connected!
+2018-03-15 09:21:42,240 [6020] INFO  MyServerA - The server instance MyServerA has been stopped!
+2018-03-15 09:21:44,596 [6020] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-15 16:07:35,753 [7136] INFO  MyServerA - The server instance MyServerA has been started!
+2018-03-15 16:07:35,820 [7136] INFO  MyServerB - The server instance MyServerB has been started!
+2018-03-15 16:07:35,840 [7136] INFO  TerminatorProtocolServer - The server instance TerminatorProtocolServer has been started!
+2018-03-15 16:07:35,871 [7136] INFO  CountSpliterAppServer - The server instance CountSpliterAppServer has been started!
+2018-03-15 16:07:35,957 [7136] INFO  FixedSizeServer - The server instance FixedSizeServer has been started!
+2018-03-15 16:07:35,976 [7136] INFO  BeginEndMarkServer - The server instance BeginEndMarkServer has been started!
+2018-03-15 16:07:35,986 [7136] INFO  FixedHeaderServer - The server instance FixedHeaderServer has been started!
+2018-03-15 16:07:36,063 [7136] INFO  HLProtocolServer - The server instance HLProtocolServer has been started!
+2018-03-15 16:07:36,080 [7136] INFO  CustomServer - The server instance CustomServer has been started!
+2018-03-15 16:07:36,104 [7136] INFO  FileServer - The server instance FileServer has been started!
+2018-03-15 16:07:36,151 [7136] INFO  ManagementServer - The server instance ManagementServer has been started!
+2018-03-15 16:07:38,355 [7136] INFO  MyServerA - The server instance MyServerA has been stopped!
+2018-03-15 16:07:38,411 [7136] INFO  MyServerB - The server instance MyServerB has been stopped!
+2018-03-15 16:07:38,424 [7136] INFO  TerminatorProtocolServer - The server instance TerminatorProtocolServer has been stopped!
+2018-03-15 16:07:38,430 [7136] INFO  CountSpliterAppServer - The server instance CountSpliterAppServer has been stopped!
+2018-03-15 16:07:38,436 [7136] INFO  FixedSizeServer - The server instance FixedSizeServer has been stopped!
+2018-03-15 16:07:38,442 [7136] INFO  BeginEndMarkServer - The server instance BeginEndMarkServer has been stopped!
+2018-03-15 16:07:38,447 [7136] INFO  FixedHeaderServer - The server instance FixedHeaderServer has been stopped!
+2018-03-15 16:07:38,453 [7136] INFO  HLProtocolServer - The server instance HLProtocolServer has been stopped!
+2018-03-15 16:07:38,457 [7136] INFO  CustomServer - The server instance CustomServer has been stopped!
+2018-03-15 16:07:38,463 [7136] INFO  FileServer - The server instance FileServer has been stopped!
+2018-03-15 16:07:38,463 [7136] INFO  ManagementServer - The server instance ManagementServer has been stopped!

@@ -1,0 +1,9 @@
+﻿2018-02-12 10:51:30,310 [4656] DEBUG MyServerA - The command ADD(SuperSocketDemo.Commands.ADD, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-12 10:51:30,321 [4656] DEBUG MyServerA - The command Echo(SuperSocketDemo.Commands.Echo, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-12 10:51:30,321 [4656] DEBUG MyServerA - The command Hello(SuperSocketDemo.Commands.Hello, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-12 10:51:30,321 [4656] DEBUG MyServerA - The command MULT(SuperSocketDemo.Commands.MULT, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-12 10:51:30,347 [4656] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-12 10:57:54,917 [3900] DEBUG MyServerA - The command Custom(SuperSocketDemo.Commands.Custom, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-12 10:57:54,956 [3900] DEBUG MyServerA - Listener (192.168.1.14:2012) was started
+2018-02-12 10:59:55,241 [5628] DEBUG MyServerA - The command Custom(SuperSocketDemo.Commands.Custom, SuperSocketDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2018-02-12 10:59:55,279 [5628] DEBUG MyServerA - Listener (192.168.1.14:2012) was started

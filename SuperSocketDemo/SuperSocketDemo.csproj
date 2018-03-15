@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CBE9DF5A-BA7F-4F4E-B2C0-B345A7AB9107}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SuperSocketDemo</RootNamespace>
+    <AssemblyName>SuperSocketDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Common, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SuperSocket.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Facility, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SuperSocket.Facility.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.ServerManager, Version=1.6.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SuperSocket.ServerManager.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketBase, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SuperSocket.SocketBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketEngine, Version=1.6.6.0, Culture=neutral, PublicKeyToken=6c80000676988ebb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SuperSocket.SocketEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.WebSocket, Version=1.6.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SuperSocket.WebSocket.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppServers\BeginEndMarkServer.cs" />
+    <Compile Include="AppServers\CountSpliterAppServer.cs" />
+    <Compile Include="AppServers\CustomServer.cs" />
+    <Compile Include="AppServers\FileServer.cs" />
+    <Compile Include="AppServers\FixedHeaderServer.cs" />
+    <Compile Include="AppServers\FixedSizeServer.cs" />
+    <Compile Include="AppServers\HLProtocolServer.cs" />
+    <Compile Include="AppServers\IDispatchServer.cs" />
+    <Compile Include="AppServers\MyServerA.cs" />
+    <Compile Include="AppServers\MyServerB.cs" />
+    <Compile Include="AppServers\TerminatorProtocolServer.cs" />
+    <Compile Include="CommandFilter\LogTimeCommandFilter.cs" />
+    <Compile Include="Commands\ADD.cs" />
+    <Compile Include="Commands\Custom.cs" />
+    <Compile Include="Commands\Dispatch.cs" />
+    <Compile Include="Commands\Echo.cs" />
+    <Compile Include="Commands\File.cs" />
+    <Compile Include="Commands\Hello.cs" />
+    <Compile Include="Commands\PutHLData.cs" />
+    <Compile Include="Commands\MULT.cs" />
+    <Compile Include="Commands\Query.cs" />
+    <Compile Include="Commands\TestBinary.cs" />
+    <Compile Include="Common\CommonProcess.cs" />
+    <Compile Include="Common\ProtocolHelper.cs" />
+    <Compile Include="Protocol\Factory\CustomReceiveFilterFactory.cs" />
+    <Compile Include="Protocol\Factory\FileReceiveFilterFactory.cs" />
+    <Compile Include="Protocol\Filter\CustomReceiveFilter.cs" />
+    <Compile Include="Protocol\Filter\FileReceiveFilter.cs" />
+    <Compile Include="Protocol\Filter\HLBeginEndMarkReceiveFilter.cs" />
+    <Compile Include="Protocol\Filter\MyBeginEndMarkReceiveFilter .cs" />
+    <Compile Include="Protocol\Filter\MyFixedHeaderReceiveFilter.cs" />
+    <Compile Include="Protocol\Filter\MyFixedSizeReceiveFilter.cs" />
+    <Compile Include="Protocol\Factory\HLReceiveFilterFactory.cs" />
+    <Compile Include="Protocol\Model\HLData.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Protocol\RequestInfo\HLProtocolRequestInfo.cs" />
+    <Compile Include="SessionFilter\IPConnectionFilter.cs" />
+    <Compile Include="Sessions\CustomSession.cs" />
+    <Compile Include="Sessions\FileSession.cs" />
+    <Compile Include="Sessions\HLProtocolSession.cs" />
+    <Compile Include="Sessions\MyBinarySession.cs" />
+    <Compile Include="Sessions\MySession.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Config\log4net.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Domain\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

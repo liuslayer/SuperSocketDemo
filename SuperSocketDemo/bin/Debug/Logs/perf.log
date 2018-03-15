@@ -1,0 +1,728 @@
+﻿2018-03-15 09:20:50,420 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 107,323,392.00, Total Thread Count: 24
+AvailableWorkingThreads: 4999, AvailableCompletionPortThreads: 5000
+MaxWorkingThreads: 5000, MaxCompletionPortThreads: 5000
+MyServerA ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+MyServerB ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+TerminatorProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CountSpliterAppServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedSizeServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+BeginEndMarkServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedHeaderServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+HLProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CustomServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FileServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+ManagementServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2018-03-15 09:21:50,319 Performance - ---------------------------------------------------
+CPU Usage: 0.15%, Physical Memory Usage: 120,786,944.00, Total Thread Count: 28
+AvailableWorkingThreads: 4998, AvailableCompletionPortThreads: 5000
+MaxWorkingThreads: 5000, MaxCompletionPortThreads: 5000
+MyServerA ----------------------------------
+Started Time: 2018/3/15 9:21:44
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+MyServerB ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+TerminatorProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CountSpliterAppServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedSizeServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+BeginEndMarkServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedHeaderServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+HLProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CustomServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FileServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+ManagementServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 4
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2018-03-15 09:22:50,348 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 121,520,128.00, Total Thread Count: 27
+AvailableWorkingThreads: 4998, AvailableCompletionPortThreads: 5000
+MaxWorkingThreads: 5000, MaxCompletionPortThreads: 5000
+MyServerA ----------------------------------
+Started Time: 2018/3/15 9:21:44
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+MyServerB ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+TerminatorProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CountSpliterAppServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedSizeServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+BeginEndMarkServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedHeaderServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+HLProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CustomServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FileServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+ManagementServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 5
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2018-03-15 09:23:50,359 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 122,109,952.00, Total Thread Count: 26
+AvailableWorkingThreads: 4996, AvailableCompletionPortThreads: 5000
+MaxWorkingThreads: 5000, MaxCompletionPortThreads: 5000
+MyServerA ----------------------------------
+Started Time: 2018/3/15 9:21:44
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+MyServerB ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+TerminatorProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CountSpliterAppServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedSizeServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+BeginEndMarkServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedHeaderServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+HLProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CustomServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FileServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+ManagementServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 6
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2018-03-15 09:24:50,361 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 122,511,360.00, Total Thread Count: 28
+AvailableWorkingThreads: 4997, AvailableCompletionPortThreads: 5000
+MaxWorkingThreads: 5000, MaxCompletionPortThreads: 5000
+MyServerA ----------------------------------
+Started Time: 2018/3/15 9:21:44
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+MyServerB ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+TerminatorProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CountSpliterAppServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedSizeServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+BeginEndMarkServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedHeaderServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+HLProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CustomServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FileServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+ManagementServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 7
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2018-03-15 09:25:50,378 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 122,556,416.00, Total Thread Count: 25
+AvailableWorkingThreads: 4996, AvailableCompletionPortThreads: 5000
+MaxWorkingThreads: 5000, MaxCompletionPortThreads: 5000
+MyServerA ----------------------------------
+Started Time: 2018/3/15 9:21:44
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+MyServerB ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+TerminatorProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CountSpliterAppServer ----------------------------------
+Started Time: 2018/3/15 9:20:49
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedSizeServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+BeginEndMarkServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedHeaderServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+HLProtocolServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CustomServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FileServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+ManagementServer ----------------------------------
+Started Time: 2018/3/15 9:20:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 8
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2018-03-15 16:07:36,225 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 107,208,704.00, Total Thread Count: 24
+AvailableWorkingThreads: 4999, AvailableCompletionPortThreads: 5000
+MaxWorkingThreads: 5000, MaxCompletionPortThreads: 5000
+MyServerA ----------------------------------
+Started Time: 2018/3/15 16:07:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+MyServerB ----------------------------------
+Started Time: 2018/3/15 16:07:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+TerminatorProtocolServer ----------------------------------
+Started Time: 2018/3/15 16:07:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CountSpliterAppServer ----------------------------------
+Started Time: 2018/3/15 16:07:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedSizeServer ----------------------------------
+Started Time: 2018/3/15 16:07:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+BeginEndMarkServer ----------------------------------
+Started Time: 2018/3/15 16:07:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FixedHeaderServer ----------------------------------
+Started Time: 2018/3/15 16:07:35
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+HLProtocolServer ----------------------------------
+Started Time: 2018/3/15 16:07:36
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+CustomServer ----------------------------------
+Started Time: 2018/3/15 16:07:36
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+FileServer ----------------------------------
+Started Time: 2018/3/15 16:07:36
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5000
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 833
+Total Sending Queue Items: 833
+ManagementServer ----------------------------------
+Started Time: 2018/3/15 16:07:36
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
